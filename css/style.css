@@ -130,9 +130,6 @@ img {
     display: none;
 }
 
-@media (max-width: 598px) {
-}
-
 @media (min-width: 598px)  {
     nav {
         display: none;
